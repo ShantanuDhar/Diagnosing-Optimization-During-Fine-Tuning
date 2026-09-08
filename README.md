@@ -63,7 +63,7 @@ The sharpness experiment did not give a strong enough signal to confidently clai
 
 The complete experiment is contained in:
 
-`optimizer_experiment.ipynb`
+`diagnosing-optimization-during-fine-tuning.ipynb`
 
 The notebook can be run on Kaggle or another environment with a GPU.
 
